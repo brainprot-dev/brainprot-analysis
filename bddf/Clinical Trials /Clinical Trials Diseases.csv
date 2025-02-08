@@ -1,0 +1,54 @@
+diseaseName,MESHID
+Alzheimer Disease,D000544
+Amyotrophic Lateral Sclerosis,D000690
+Angelman Syndrome,D017204
+Anxiety Disorder,D001008
+Aphasia,D001037
+Ataxia Telangiectasia,D001260
+Attention deficit hyperactivity disorder,D001289
+Autism Spectrum Disorder,D000067877
+Bipolar Disorder,D001714
+Cerebral Infarction,D002544
+Cerebral Ischemia,D002546
+Cerebral Palsy,D002547
+Creutzfeldt,D007562
+Dementia,D003704
+Down Syndrome,D004314
+Dystonia,D004421
+Encephalitis,D004660
+Encephalomyelitis,D004679
+Epilepsy,D004827
+Essential Tremor,D020329
+Fragile X Syndrome,D005600
+Friedreich Ataxia,D005621
+Frontotemporal Dementia,D057180
+Frontotemporal ,D057174
+Gaucher Disease,D005776
+Tourette Syndrome,D005879
+Glioblastoma,D005909
+Glioma,D005910
+Huntington,D006816
+Hydrocephalus,D006849
+Intellectual Disability,D008607
+ Aneurysm,D002532
+Medulloblastoma,D008527
+Meningitis,D008581
+Meningioma,D008579
+Motor Neuron Disease,D016472
+Multiple Sclerosis,D009103
+Muscular Dystrophy,D009136
+narcolepsy,D009290
+Neuroblastoma,D009447
+Neuroendocrine Tumor,D018358
+Neurofibromatosis,D017253
+Panic Disorder,D016584
+Paraganglioma,D010235
+Parkinson,D010300
+Pituitary,D049912
+Plexiform Neurofibroma,D018318
+Post-traumatic Stress Disorder,D013313
+Prader-Willi Syndrome,D011218
+Rett Syndrome,D015518
+Schizophrenia,D012559
+Tay-Sachs Disease,D013661
+Tuberous Sclerosis,D014402
