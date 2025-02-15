@@ -10,7 +10,7 @@ The [https://brainprot.org/ibpm](IBPM) domain of BrainProt conducts a comprehens
 
 ## Analysis Pipeline
 
-![IBPM Workflow](IBPM_Analysis_Workflow.png)
+![IBPM Workflow]("IBPM Analysis Workflow.png")
 
 For a detailed breakdown of analysis pipeline and inference of the data, we would refer you to the respective manuscripts of IBPM and IBPM PhosphoMap
 
