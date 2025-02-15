@@ -10,6 +10,8 @@ The [https://brainprot.org/ibpm](IBPM) domain of BrainProt conducts a comprehens
 
 ## Analysis Pipeline
 
+![IBPM Workflow](IBPM_Analysis_Workflow.png)
+
 For a detailed breakdown of analysis pipeline and inference of the data, we would refer you to the respective manuscripts of IBPM and IBPM PhosphoMap
 
 - The manuscript for IBPM: Biswas, D., Shenoy, S.V., Chetanya, C., Lachén-Montes, M., Barpanda, A., Athithyan, A.P., Ghosh, S., Ausín, K., Zelaya, M.V., Fernández-Irigoyen, J. and Manna, A., 2021. Deciphering the Interregional and Interhemisphere Proteome of the Human Brain in the Context of the Human Proteome Project. Journal of Proteome Research. [https://doi.org/10.1021/acs.jproteome.1c00511](DOI), [https://pubmed.ncbi.nlm.nih.gov/34714085/](PubMed)
